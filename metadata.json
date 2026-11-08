@@ -1,0 +1,6 @@
+{
+  "name": "KORIZKO - Cardápio Digital & Pedidos",
+  "description": "Cardápio digital premium para KORIZKO: marmitas executivas, pães artesanais, bolos, brownies e combos com pedidos via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
